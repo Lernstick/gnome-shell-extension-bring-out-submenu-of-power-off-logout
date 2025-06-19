@@ -1,0 +1,13 @@
+Source: gnome-shell-extension-bring-out-submenu-of-power-off-logout
+Section: gnome
+Priority: extra
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://extensions.gnome.org/extension/2917/bring-out-submenu-of-power-offlogout-button/
+
+Package: gnome-shell-extension-bring-out-submenu-of-power-off-logout
+Architecture: all
+Depends: ${misc:Depends}, gnome-shell (>= 3.18)
+Recommends: gnome-tweaks
+Description: Bring Out Submenu Of Power Off Button.

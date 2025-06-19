@@ -1,3 +1,9 @@
+gnome-shell-extension-bring-out-submenu-of-power-off-logout (2) lernstick-13; urgency=medium
+
+  * Updated release for GNOME 48
+
+ -- Jörg Berkel <joerg.berkel@bfh.ch>  Thu, 19 Jun 2025 08:17:00 +0200
+
 gnome-shell-extension-bring-out-submenu-of-power-off-logout (1) lernstick-12; urgency=medium
 
   * Initial release for GNOME 43
